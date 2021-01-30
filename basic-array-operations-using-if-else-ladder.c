@@ -1,4 +1,5 @@
-// Q:6.
+/*please check the problem statement for this program first (basic-array-operations-problem-statement.pdf)
+  Also check the implementataion of this program using functions */
 
 #include <stdio.h>
 #include <stdlib.h>
