@@ -1,3 +1,4 @@
+/* Please check the problem statement for this code first (different-array-operations.pdf) */
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX_LEN 10  
