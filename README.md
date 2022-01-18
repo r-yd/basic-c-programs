@@ -11,6 +11,7 @@ Display the following menu:
 4. Search
 5. Sort
 6. Exit
+
 Enter your choice ...
 
 a) [Invalid Choice]: If the user enters a choice other than 1-6, display the error
